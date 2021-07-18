@@ -105,21 +105,21 @@ h2{
 	flex-direction: row;
 }
 .item-img{
-	width: 100%;
+	width: 50%;
 	height: 300px;
 	object-fit: cover;
 }
 
 .item-img1{
-	width: 100%;
+	width: 50%;
 	height: 1200px;
 	object-fit: cover;
 }
 
 .item-img2{
-	width: 33.33%;
+	width: 53%;
 	height: 600px;
-	object-fit: cover;
+	object-f-it: cover;
 }
 
 .item-text {
