@@ -163,15 +163,15 @@ input{
 	margin-top: 0.5em;
 }
 /* For mobile phones: */
-[class*="item-tile"] {
+[class*="img"] {
   width: 100%;
 }
 
 @media only screen and (min-width: 600px) {
   /* For tablets: */
-  .item-tile {width: 100%;}
+  .img {width: 33.33%;}
   }
 @media only screen and (min-width: 768px) {
   /* For desktop: */
-  .item-tile {width: 25%;}
+  .img {width: 25%;}
   }
